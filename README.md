@@ -1,0 +1,2 @@
+# libemf-msvc
+libemf-msvc
